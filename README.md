@@ -4,7 +4,7 @@
 
 ### Básica
 
- - Materiales educativos del módulo: TBD
+ - Materiales educativos del módulo: https://github.com/xelcerlib/analisis-politico-internacional/blob/main/materia-unidad-3.pdf
  - Bianculli, A. C. (2024). América Latina en el nuevo escenario internacional: ¿qué espacio hay para el regionalismo y la cooperación regional? Revista CIDOB d’Afers Internacionals, 136 (abril), p. 89-110. https://www.cidob.org/publicaciones/america-latina-en-el-nuevo-escenario-internacional-que-espacio-hay-para-el
  - Rosales, O. (2023). América Latina y el desafío de su inserción internacional. En José Antonio Sanahuja y Pablo Stefanoni (eds.), América Latina en el interregno: política, economía e inserción internacional informe anual 2023-2024. Madrid: Fundación Carolina, pp. 13-26. https://www.fundacioncarolina.es/wp-content/uploads/2023/12/Informe-Anual-FC-2023-2024_web.pdf
  - Tussie, D. (2024). {{china_en_sudamerica_¿hacia una nueva geografía del regionalismo?}}En Sergio Rivero Soto y Priscilla Villegas Arce (coord.), China y América Latina y el Caribe: relaciones multidimensionales y multinivel. Costa Rica: FLACSO, pp. 19-38. https://www.flacso.org/sites/default/files/2024-05/Montaje%20EPUB%20CHINA.pdf
